@@ -1,0 +1,30 @@
+{
+  "npm.binPath": "~/.nvm/versions/node/v12.18.3/bin/yarn",
+  "suggest.echodocSupport": true,
+  "suggest.maxCompleteItemCount": 20,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "vue",
+    "javascriptvue",
+    "typescriptvue"
+  ],
+  "eslint.filetypes": [
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "javascriptreact",
+    "typescript.tsx",
+    "vue",
+    "javascriptvue",
+    "typescriptvue"
+  ],
+  "eslint.autoFix": true,
+  "eslint.autoFixOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true
+}
